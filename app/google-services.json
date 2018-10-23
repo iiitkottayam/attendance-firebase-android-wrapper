@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256083710840",
+    "firebase_url": "https://attendenceapp-3896c.firebaseio.com",
+    "project_id": "attendenceapp-3896c",
+    "storage_bucket": "attendenceapp-3896c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256083710840:android:4e423ffce5b3d937",
+        "android_client_info": {
+          "package_name": "com.iiitkottayam.shivendra.attendence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256083710840-8328nb6be9a5o8hrc1ceav7o3janaikm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iiitkottayam.shivendra.attendence_app",
+            "certificate_hash": "2d08e0d380d7ac5e7651061570cb00eb25ffd4b8"
+          }
+        },
+        {
+          "client_id": "256083710840-deht93he9ci96gbfj30t2kaqqblnn2f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrTvJ4xzZg9tOmn2rWCjPNGZYGMSkGSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256083710840-deht93he9ci96gbfj30t2kaqqblnn2f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
